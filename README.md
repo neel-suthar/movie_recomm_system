@@ -1,4 +1,4 @@
-# Get started:
+# Getting started:
 
 - Download notebook file(.ipynb file) along with all the csv files.
 - Upload it on Google colab and just run it 😊.
